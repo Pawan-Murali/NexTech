@@ -11,7 +11,7 @@ honest_quotes = {
         "You’ll probably do it tomorrow…or next year.",
         "Deadlines are just suggestions, right?",
         "Maybe if you ignore it, it’ll go away.",
-    ],
+    ],  
     "fitness": [
         "Abs are overrated. Have a donut.",
         "Lifting the remote counts as exercise.",

@@ -18,7 +18,7 @@ const honestQuotes = {
     "academics": [
         "You'll fail even if you study hard. So binge that show!",
         "You can't make it in a single day.",
-        "You don't have the talent to study",
+        "You don't have the talent to study.",
         "Anyway, you are not going to pass."
     ],
     "athletics": [
@@ -36,12 +36,14 @@ const honestQuotes = {
 
 // Function to fetch a random quote for the selected category
 function fetchQuote() {
-    const category = document.getElementById('categoryDropdown').value;
-    const quotes = honestQuotes[category];
-    if (quotes) {
+    const category = document.getElementById('categoryDropdown').value; // Get selected category
+    const quotes = honestQuotes[category]; // Retrieve quotes for that category
+
+    // Check if category has quotes and select a random one
+    if (quotes && quotes.length > 0) {
         const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-        document.getElementById('quoteOutput').textContent = `"${randomQuote}"`;
+        document.getElementById('quoteOutput').textContent = `"${randomQuote}"`; // Display random quote
     } else {
-        document.getElementById('quoteOutput').textContent = "Category not found.";
+        document.getElementById('quoteOutput').textContent = "No quotes available for this category."; // Fallback
     }
 }

@@ -1,36 +1,36 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Honest Motivation Onli 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: NexTech
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Pawan Murali - SCMS School of Engineering and Technology
+- Member 2: Omar Abdullah - SCMS School of Engineering and Technology
+- Member 3: Pooja Prasad - SCMS School of Engineering and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project focuses on solving dishonesty. We aim to give people the truth they deserve.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People need honest personal motivation
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We're making a motivation quote generator thats brutally honest! It will not take into consideration the feelings and will go in for the job it was meant for.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Python
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
 
 For Hardware:
-- [List main components]
+- Laptop?
 - [List specifications]
 - [List tools required]
 

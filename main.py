@@ -1,17 +1,36 @@
 import random
 
 # List of bad motivational quotes
-bad_quotes = [
-    "Give up now – tomorrow's not looking any better.",
-    "Why try when you can fail?",
-    "Dream small and avoid disappointment.",
-    "If you can't do it perfectly, don’t bother at all.",
-    "Good things come... to people who wait too long and miss out."
-]
+honest_quotes = {
+    "Self_doubt": [
+        "Why bother? You're not that special.",
+        "Confidence? Not in this lifetime.",
+        "Why try when it's easier to fail?",
+    ],
+    "Procrastination": [
+        "You’ll probably do it tomorrow…or next year.",
+        "Deadlines are just suggestions, right?",
+        "Maybe if you ignore it, it’ll go away.",
+    ],
+    "Fitness": [
+        "Abs are overrated. Have a donut.",
+        "Lifting the remote counts as exercise.",
+        "Why run when you can sit?",
+    ]
+}
 
 # Function to return a random bad quote
-def get_bad_quote():
-    return random.choice(bad_quotes)
+def get_honesty(category):
+    if category in honest_quotes:
+        return random.choice(honest_quotes[category])
+    else:
+        return "Category not found. Please choose a valid category."
 
-# Example usage
-print(get_bad_quote())
+# Display available categories to the user
+print("Available categories:", ', '.join(honest_quotes.keys()))
+
+# Ask the user to select a category
+user_category = input("Choose a category from the above: ").lower()
+
+# Get a random quote from the chosen category
+print(get_honesty(user_category))

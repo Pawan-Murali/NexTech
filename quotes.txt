@@ -12,6 +12,7 @@
     "it seems like the other team have had good practice in these days.",
 ],
 
+
 "evilmarriage":[
     "You r the problem.",
     "You can't be a good husband.",
@@ -19,6 +20,18 @@
 ],
 
 "insecurity":
+    "walking infront of a group of girls alone(roshan subash).",
+    "stage fear.",
+    "the way u look.",
+    "way of walking.",
+],
+
+"lovefailure":
+    "selfish",
+    "trust",
+    "expectations",
+    "respect",
+    "
 
     
 

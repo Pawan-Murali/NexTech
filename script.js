@@ -1,5 +1,3 @@
-// script.js
-
 // Dictionary of "honest" quotes
 const honestQuotes = {
     "insecurity": [
@@ -17,39 +15,23 @@ const honestQuotes = {
         "Lifting the remote counts as exercise.",
         "Why run when you can sit?"
     ],
-    "academics":[
-        "You'll fail even if you study hard. So binge that show!."
+    "academics": [
+        "You'll fail even if you study hard. So binge that show!",
         "You can't make it in a single day.",
         "You don't have the talent to study",
-        "Anyway you are not going to pass.",
+        "Anyway, you are not going to pass."
     ],
-    
-    "athletics":[
+    "athletics": [
         "Everyone knows you're going to lose.",
         "This match is going to be impossible for you.",
-        "The other team looks so good."
-        "It seems like the other team had great practice.",
+        "The other team looks so good.",
+        "It seems like the other team had great practice."
     ],
-    
-    
-    "marriage":[
+    "marriage": [
         "You are clearly the problem.",
         "You can't be a good partner, it's due to your father.",
-        "Why did you even get married in the first place?",
-    ]/*,
-    
-    "insecurity":
-        "Walking infront of a group of girls alone(roshan subash).",
-        "you suffer tage fear.",
-        "the way u look.",
-        "way of walking.",
-    ],
-    "lovefailure":
-        "selfish",
-        "trust",
-        "expectations",
-        "respect",
-    ]*/
+        "Why did you even get married in the first place?"
+    ]
 };
 
 // Function to fetch a random quote for the selected category

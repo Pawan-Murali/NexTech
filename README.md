@@ -1,4 +1,4 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+![BluntBot Workflow](https://github.com/user-attachments/assets/e38b451d-75d1-4321-80bd-7fd09b9544c6)<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # BluntBot 🎯
 
@@ -53,19 +53,19 @@ This shows the drop-down menu to select the desired field for support
 After selecting your category you get your honest quote
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![BluntBot Workflow](https://github.com/user-attachments/assets/daf29c4e-43e0-4220-85e1-e1db9d41cac5)
+
+This workflow diagram depicts the steps in generating the "Honest" Quote
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/9034ebcf-a0cb-4045-b7be-e88327e0192f
 
-# Additional Demos
-[Add any extra demo materials/links]
+This workflow diagram depicts the steps in generating the "Honest" Quote
+
 
 ## Team Contributions
-- Pawan Murali: Frontend and Backend
+- Pawan Murali: Development
 - Pooja Prasad: Research
 - Omar Abdullah: Research
 

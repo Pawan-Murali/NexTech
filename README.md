@@ -19,7 +19,7 @@ Our project focuses on solving dishonesty. We aim to give people the truth they 
 People need honest personal motivation
 
 ### The Solution (that nobody asked for)
-We're making a motivation quote generator thats brutally honest! It will not take into consideration the feelings and will go in for the job it was meant for.
+We're making a motivational quote generator that's brutally honest! It will not consider the feelings and will go in for the job it was meant for.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -40,14 +40,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-(Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+[BluntBot Face](https://github.com/user-attachments/assets/ce19e958-860c-464b-89e4-0add07687f3b)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+This shows our user interface
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Category Selection](https://github.com/user-attachments/assets/296300b3-ed41-4302-9427-cb72d11ea54e)
+
+This shows the drop-down menu to select the desired field for support
+
+![Quote output](https://github.com/user-attachments/assets/ea4de55d-7668-44ac-b8b1-e5c90e31d01f)
+
+After selecting your category you get your honest quote
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)

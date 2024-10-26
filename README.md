@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Honest Motivation Onli 🎯
+# BluntBot 🎯
 
 
 ## Basic Details
@@ -31,10 +31,10 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+It's a web application, there is no installation.
 
 # Run
-[commands]
+It's a web application, there is no installation.
 
 ### Project Documentation
 For Software:
@@ -56,25 +56,6 @@ After selecting your category you get your honest quote
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
@@ -84,9 +65,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Pawan Murali: Frontend and Backend
+- Pooja Prasad: Research
+- Omar Abdullah: Research
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
